@@ -150,17 +150,15 @@ srtop.reveal('.home .content .btn',{delay: 200});
 srtop.reveal('.home .image',{delay: 400}); 
 srtop.reveal('.home .linkedin',{interval: 600}); 
 srtop.reveal('.home .github',{interval: 800}); 
-srtop.reveal('.home .twitter',{interval: 1000});
-srtop.reveal('.home .telegram',{interval: 600}); 
-srtop.reveal('.home .instagram',{interval: 600}); 
+
 
 
 
 /* SCROLL ABOUT */
 srtop.reveal('.about .content h3',{delay: 300});
-srtop.reveal('.about .content .tag',{delay: 400}); 
+srtop.reveal('.about .content .tag1',{delay: 400}); 
 srtop.reveal('.about .content p',{delay: 300}); 
-srtop.reveal('.about .content .box-container',{delay: 300}); 
+srtop.reveal('.about .content .box-container1',{delay: 300}); 
 srtop.reveal('.about .content .resumebtn',{delay: 300}); 
 
 
